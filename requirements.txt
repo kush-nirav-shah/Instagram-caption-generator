@@ -1,0 +1,7 @@
+langchain_community
+langchain_core
+huggingface_hub
+transformers
+torch
+Pillow
+matplotlib
